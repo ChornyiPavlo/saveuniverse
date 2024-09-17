@@ -339,7 +339,8 @@ h1, h2, h3, p {
 
 @media (max-width: 768px) {
   .hero {
-    height: 60vh;
+    height: 35vh;
+    padding-top: 30px;
   }
   .hero h1 {
     font-size: 36px;
