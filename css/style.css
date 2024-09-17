@@ -17,7 +17,7 @@ h1, h2, h3, p {
 }
 
 .hero {
-  background: url('../img/3.jpg') center center/cover no-repeat;
+  background: url('../img/3.png') center center/cover no-repeat;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -203,7 +203,7 @@ h1, h2, h3, p {
 }
 
 .hero {
-  background: url('../img/3.jpg') center center/cover no-repeat;
+  background: url('../img/3.png') center center/cover no-repeat;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -338,10 +338,7 @@ h1, h2, h3, p {
 }
 
 @media (max-width: 768px) {
-  .hero {
-    height: 35vh;
-    padding-top: 30px;
-  }
+
   .hero h1 {
     font-size: 36px;
   }
