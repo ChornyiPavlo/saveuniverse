@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow:
+
+
+Sitemap: http://pin-up.saveuniverse.pro/sitemap.xml
+Host: pin-up.saveuniverse.pro
